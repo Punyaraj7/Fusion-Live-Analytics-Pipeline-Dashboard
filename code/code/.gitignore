@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Logs
+logs/
+
+# Data (regenerate by running the ETL)
+dashboard.db
+output/
+raw_json/
